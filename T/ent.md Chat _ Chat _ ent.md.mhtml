@@ -1,0 +1,672 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://winksite.com/xhtml/ms_cr?susid=56562&crid=61679&random=9753242
+Subject: ent.md Chat | Chat | ent.md
+Date: Sat, 16 Jul 2022 18:35:48 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC----"
+
+
+------MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC----
+Content-Type: text/html
+Content-ID: <frame-0A9368813AF26EA73B6FC277F2D0D32B@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://winksite.com/xhtml/ms_cr?susid=56562&crid=61679&random=9753242
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-026e3036-d7b8-4313-8cde-53f6ce460222@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-6115ba29-6e87-4fa1-b57c-442ea6592ab3@mhtml.blink" />
+<title>ent.md Chat | Chat | ent.md</title>
+ <meta name="robots" content="noindex,nofollow,noarchive,noodp,noydir"> <meta name="viewport" content="minimum-scale=1.0, width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon-precomposed" href="https://winksite.com/xhtml/images/apple-touch-icon.png"> <meta name="HandheldFriendly" content="true">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+
+
+
+
+
+</head>
+<body>
+<div id="chat_wrapper">
+<div id="portrait">
+<div id="chat_emoticons"></div>
+<div id="chat_information"></div>
+<div id="chat_user_options" style="display: block;"></div>
+<div id="chat_user_profile"></div>
+
+<div id="menu" style="display: none; position: fixed; top: 48px; left: 0px; width: 100%; z-index: 1000001;">
+<div style="background-color: #FFFFFF; filter:alpha(opacity=100);margin-bottom:1px;opacity:1.0;">
+<div class="menurow" style="color: #323B4F;">ROOM ADMINISTRATION</div>
+<div class="menurow" style="color: #323B4F;">CLEAR ALL MESSAGES</div>
+<div class="menurow" style="color: #323B4F;">REPORT ABUSE</div>
+<div class="menurow" style="color: #323B4F;">EXIT CHAT</div>
+</div>
+</div>
+<div style="position: fixed; background-color: #FFFFFF; border-bottom: solid 1px #EEEEEE; height: 48px; width: 100%;">
+<div style="color: #323B4F; font-size: 14pt; font-weight: bold; overflow: hidden; padding: 13px 0 0 16px; text-overflow: ellipsis; white-space: nowrap; width: 85%;">ent.md</div>
+<div style="position: absolute; top: 32px; right: 17px; height: 10px; width: 18px; color: #323B4F; font-size: 4.8pt; font-weight: 400; text-align: center;">MENU</div>
+<div style="position: absolute; top: 14px; right: 17px; height: 12px; width: 18px;">
+<button id="hamburger_menu" class="c-hamburger c-hamburger--htx is-active"><span>toggle menu</span></button>
+
+
+</div>
+</div>
+<div id="chat_buffer_before_msgs"></div>
+<div id="main_content" role="main">
+<div id="chat_ms_cr_ajax">
+<div style="color:rgba(0,0,0,0.87);font-size:2em;font-weight:300;line-height:100%;margin:6px 0 16px 0;">ent.md Chat</div>
+<div class="chat_msg_me" style="padding-bottom:7px;">
+facebook.com
+</div>
+<div style="clear: both;"></div>
+<div class="chat_time_me">
+Just now
+</div>
+<div class="chat_erase_msg_me" id="chat_erase_msg_1" style="display: none;">
+<a>Delete&nbsp;message</a>
+</div>
+<div class="clearboth"></div>
+</div>
+</div>
+<div id="ms_cr_write"></div>
+<div id="chat_buffer_after_msgs"></div>
+<div id="chat_bottom_area" style="position: fixed; bottom: 0px; left: 0; right: 0;">
+<form action="https://winksite.com/xhtml/ms_cr_write_a" enctype="multipart/form-data" method="post" name="frm_ms_cr_write">
+
+
+<div id="chat_button_close_add_image_div"><img alt="" src="https://winksite.com/xhtml/images/b-add-image.png" style="width: 32px;"></div>
+<div id="chat_button_add_image_div"><img alt="" src="https://winksite.com/xhtml/images/b-add-image.png" style="width: 32px;"></div>
+<div id="chat_input_wrapper">
+<div class="expanding-wrapper" style="position:relative"><textarea class="chat_input_textarea expanding" id="msg" maxlength="150" name="msg" placeholder="Message" style="margin: 0px; box-sizing: border-box; width: 100%; position: absolute; top: 0px; left: 0px; height: 100%; resize: none; overflow: auto;"></textarea><pre class="expanding-clone" id="expanding-clone" style="margin: 0px; box-sizing: border-box; width: 100%; display: block; border: 1px solid; visibility: hidden; min-height: 36px; white-space: pre-wrap; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; overflow-wrap: break-word; padding: 6px;"><span></span><br></pre></div>
+</div>
+<div id="chat_send_button_wrapper"><div id="chat_send_button" style="visibility: hidden;"><img alt="Send" height="36" src="https://winksite.com/xhtml/images/send.png" width="36"></div></div>
+<div style="clear: both; height: 0;"></div>
+<div id="chat_image_upload"><input accept="image/*" name="image_upload" type="file"></div>
+</form>
+</div>
+</div>
+<div id="landscape">
+</div>
+</div>
+
+
+</body></html>
+------MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-026e3036-d7b8-4313-8cde-53f6ce460222@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+a:link, a:visited, a:hover, a:active { color: rgb(63, 69, 134); outline: none; text-decoration: none; }
+
+a.linkSmall { font-size: small; }
+
+a.linkXSmall { font-size: x-small; }
+
+body { background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.87); font-size: medium; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, sans-serif; margin: 0px; }
+
+form { margin: 0px; }
+
+h1.channel_name, h1.title { color: rgb(0, 0, 0); font-size: 8.4vw; font-weight: 600; line-height: 37px; margin: 6px 0px 16px; }
+
+h1.channel_name_small { color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-weight: normal; margin: 0px 0px 8px; }
+
+h1 { color: rgb(0, 0, 0); font-size: 8.4vw; font-weight: 600; line-height: 37px; margin: 6px 0px 16px; }
+
+h2 { color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 20px; font-weight: 300; line-height: 29px; margin: 0px 0px 8px; }
+
+h3 { color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 1.22em; font-weight: normal; margin: 0px; }
+
+h4 { color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 1.14em; font-weight: bold; margin: 0px; }
+
+h5 { color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 1.07em; font-weight: bold; margin: 0px; }
+
+h6 { color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 1em; font-weight: bold; margin: 0px 0px 8px; }
+
+img { border: 0px; }
+
+input[type="button"] { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
+
+.formWrapper .formButton { background: linear-gradient(rgb(11, 179, 3), rgb(11, 179, 3)) 0px 0px repeat scroll transparent; border: none; border-radius: 4px; color: rgb(255, 255, 255); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 12px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonAdmin { background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) 0px 0px repeat scroll transparent; border: 1px solid rgb(11, 179, 3); border-radius: 4px; color: rgb(11, 179, 3); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 11px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonCancel { background: linear-gradient(rgb(100, 111, 136), rgb(100, 111, 136)) 0px 0px repeat scroll transparent; border: none; border-radius: 4px; color: rgb(255, 255, 255); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 12px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonEdit { background: linear-gradient(rgb(42, 159, 253), rgb(42, 159, 253)) 0px 0px repeat scroll transparent; border: none; border-radius: 4px; color: rgb(255, 255, 255); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 12px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonEditAdmin { background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) 0px 0px repeat scroll transparent; border: 1px solid rgb(42, 159, 253); border-radius: 4px; color: rgb(42, 159, 253); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 11px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonDelete { background: linear-gradient(rgb(153, 51, 255), rgb(153, 51, 255)) 0px 0px repeat scroll transparent; border: none; border-radius: 4px; color: rgb(255, 255, 255); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 12px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonDeleteAdmin { background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)) 0px 0px repeat scroll transparent; border: 1px solid rgb(153, 51, 255); border-radius: 4px; color: rgb(153, 51, 255); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 11px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formButtonFooter { background-color: transparent; border: 1px solid rgb(50, 59, 79); border-radius: 4px; color: rgb(50, 59, 79); cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; line-height: normal; margin: 12px 0px 0px; padding: 11px 17px; text-align: center; text-transform: uppercase; vertical-align: middle; width: 100%; }
+
+.formWrapper .formItem { margin: 10px 0px 16px; }
+
+.formWrapper .formLabel { color: inherit; font-family: inherit; font-size: 10pt; margin: 0px 0px 3px; }
+
+.formWrapper .formField { background-color: rgb(242, 242, 244); border: 0.5px solid rgba(0, 0, 0, 0.54); border-radius: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: 16pt; outline: none; padding: 8px 9px; width: 100%; appearance: none; }
+
+.formWrapper .formFieldSmall { background-color: rgb(242, 242, 244); border: 0.5px solid rgba(0, 0, 0, 0.54); border-radius: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: medium; outline: none; padding: 5px 6px; width: 100%; appearance: none; }
+
+.formWrapper .formFieldTextarea { background-color: rgb(242, 242, 244); border: 0.5px solid rgba(0, 0, 0, 0.54); border-radius: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: 16pt; height: 100px; outline: none; padding: 6px; resize: none; width: 100%; appearance: none; }
+
+.formWrapper .formFieldOption { color: rgba(0, 0, 0, 0.54); font-family: inherit; font-size: 16pt; }
+
+.formWrapper .formInstructionsErrorLarge { color: rgb(255, 0, 132); font-size: 12pt; font-weight: bold; margin-top: 8px; }
+
+.formWrapper .formFieldSelect { background-color: rgb(242, 242, 244); border: 0.5px solid rgba(0, 0, 0, 0.54); border-radius: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: 16pt; outline: none; padding: 7px 8px; width: 100%; }
+
+.formWrapper .formFieldSelectSmall { background-color: rgb(242, 242, 244); border: 0.5px solid rgba(0, 0, 0, 0.54); border-radius: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: medium; outline: none; padding: 7px 8px; width: 100%; }
+
+.formWrapper .formText { font-size: 16pt; }
+
+.formWrapper .formTextSmall { color: inherit; font-family: inherit; font-size: 8pt; }
+
+.abstract { margin-bottom: 16px; }
+
+.alignleft { text-align: left; width: 100%; }
+
+.aligncenter { text-align: center; width: 100%; }
+
+.alignright { text-align: right; width: 100%; }
+
+.c-hamburger { display: block; position: relative; overflow: hidden; margin: 0px; padding: 0px; width: 18px; height: 18px; font-size: 0px; text-indent: -9999px; appearance: none; box-shadow: none; border-radius: 0px; border: none; cursor: pointer; transition: background 0.3s ease 0s; }
+
+.c-hamburger:focus { outline: 0px; }
+
+.c-hamburger span { display: block; position: absolute; top: 9px; left: 0px; right: 0px; height: 2px; background: rgb(50, 59, 79); }
+
+.c-hamburger span::after, .c-hamburger span::before { position: absolute; display: block; left: 0px; width: 100%; height: 2px; background-color: rgb(50, 59, 79); content: ""; }
+
+.c-hamburger span::before { top: -5px; }
+
+.c-hamburger span::after { bottom: -5px; }
+
+.c-hamburger--htx { background-color: transparent; }
+
+.c-hamburger--htx span { transition: background 0s ease 0.3s; }
+
+.c-hamburger--htx span::after, .c-hamburger--htx span::before { transition-duration: 0.3s, 0.3s; transition-delay: 0.3s, 0s; }
+
+.c-hamburger--htx span::before { transition-property: top, transform; }
+
+.c-hamburger--htx span::after { transition-property: bottom, transform; }
+
+.c-hamburger--htx.is-active { background-color: transparent; }
+
+.c-hamburger--htx.is-active span { background: 0px 0px; }
+
+.c-hamburger--htx.is-active span::before { top: 0px; transform: rotate(45deg); }
+
+.c-hamburger--htx.is-active span::after { bottom: 0px; transform: rotate(-45deg); }
+
+.c-hamburger--htx.is-active span::after, .c-hamburger--htx.is-active span::before { transition-delay: 0s, 0.3s; }
+
+.charactersRemaining { border: none; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 10pt; height: 20px; padding: 0px; text-align: right; width: 35px; }
+
+.clearboth { clear: both; }
+
+.commentWrapper { border-bottom: 1px solid rgba(0, 0, 0, 0.12); padding: 16px 0px; }
+
+.commentName { font-weight: bold; margin-bottom: 0px; }
+
+.commentEntry { margin-bottom: 1px; }
+
+.commentDate { color: rgba(0, 0, 0, 0.54); font-size: small; }
+
+.formButtonNavigationSpacer { height: 12px; }
+
+.formField { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; width: 90%; }
+
+.formItem { margin-bottom: 10px; }
+
+.infiniteScrollAreaTopBar { border-bottom: 1px solid rgba(0, 0, 0, 0.12); padding: 0px 16px; }
+
+.navigation_area { border-top: 3px solid rgba(0, 0, 0, 0.54); padding-top: 5px; border-bottom: 1px solid rgba(0, 0, 0, 0.54); padding-bottom: 3px; margin: 10px 16px 0px; }
+
+.navigation_area select { color: rgb(51, 51, 51); width: 99%; max-width: 99%; }
+
+.never_submit_passwords { font-size: 10pt; font-style: oblique; margin-top: 12px; text-align: center; }
+
+.linkColor { color: rgb(63, 69, 134); }
+
+.linkBox, .linkBoxNoNotch { border-bottom: 1px solid rgb(214, 215, 214); padding: 16px 0px; position: relative; }
+
+.linkBoxOpen, .linkBoxClose { border-bottom: 1px solid rgb(214, 215, 214); padding: 16px 0px; position: relative; }
+
+.linkBoxTopBar { border-top: 1px solid rgb(214, 215, 214); }
+
+.linkBoxText { width: 90%; z-index: 2; color: rgb(63, 69, 134); }
+
+.linkBoxArrowRight { background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); border-color: rgb(63, 69, 134); border-image: none 100% / 1 / 0 stretch; border-style: none solid solid none; border-width: 0px 2px 2px 0px; content: ""; cursor: pointer; display: block; margin: 0px auto 10px; outline: none 0px; height: 8px; width: 8px; position: absolute; top: 42%; right: 2px; z-index: 2; transform: rotate(315deg); }
+
+.linkBoxArrowDown { background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); border-color: rgb(63, 69, 134); border-image: none 100% / 1 / 0 stretch; border-style: none solid solid none; border-width: 0px 2px 2px 0px; content: ""; cursor: pointer; display: block; margin: 0px auto 10px; outline: none 0px; height: 8px; width: 8px; position: absolute; top: 16px; right: 2px; z-index: 2; transform: rotate(45deg); }
+
+.linkBoxArrowUp { background: none 0px 0px repeat scroll rgba(0, 0, 0, 0); border-color: rgb(63, 69, 134); border-image: none 100% / 1 / 0 stretch; border-style: none solid solid none; border-width: 0px 2px 2px 0px; content: ""; cursor: pointer; display: block; margin: 0px auto 10px; outline: none 0px; height: 8px; width: 8px; position: absolute; top: 20px; right: 2px; z-index: 2; transform: rotate(225deg); }
+
+.main_content_copy, .click_to_call { color: rgba(0, 0, 0, 0.87); line-height: 160%; margin: 0px 0px 16px; }
+
+.menurow { padding: 16px; font-weight: normal; color: rgb(255, 255, 255); }
+
+.menurow_hp { padding: 16px; font-weight: normal; color: rgb(255, 255, 255); }
+
+.menurow.current { color: rgb(255, 255, 255); }
+
+.profile_photo_chat { background-position: center center; background-repeat: no-repeat; background-size: 100%; border: 0.5px solid rgb(200, 200, 200); height: 34px; width: 34px; border-radius: 17px; }
+
+.profile_photo_small { background-position: center center; background-repeat: no-repeat; background-size: 100%; border: 0.5px solid rgb(200, 200, 200); height: 60px; width: 60px; border-radius: 30px; }
+
+.profile_photo_large { background-position: center center; background-repeat: no-repeat; background-size: 100%; border: 1px solid rgb(200, 200, 200); height: 100px; width: 100px; border-radius: 50px; }
+
+.preview { background-color: rgb(242, 242, 244); padding: 10px; }
+
+.uppercase { text-transform: uppercase; }
+
+.video_container { position: relative; width: 100%; height: 0px; padding-bottom: 56.25%; }
+
+.video_container_instagram { position: relative; width: 100%; height: 0px; padding-bottom: 115%; }
+
+.video_container_vevo { position: relative; width: 100%; height: 0px; padding-bottom: 56.3043%; }
+
+.video_container_vine { position: relative; width: 100%; height: 0px; padding-bottom: 100%; }
+
+.video_iframe { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; }
+
+#author { font-size: small; }
+
+#breadcrumbs { background-color: rgb(242, 242, 242); color: rgb(33, 33, 33); font-size: small; margin-top: 40px; padding: 30px 16px 0px; }
+
+#breadcrumbs a { color: rgb(33, 33, 33); font-size: small; }
+
+.breadcrumbs_logo { opacity: 0.8; position: relative; top: 7px; }
+
+.breadcrumbs_separator { color: rgb(51, 51, 51); padding: 0px 6px; }
+
+#channel_name { font-weight: bold; padding: 10px 16px 0px; }
+
+#copyright { font-size: small; margin: 6px 0px; }
+
+.folder_accordion_menu { background-color: rgb(255, 255, 255); margin-bottom: 10px; }
+
+.folder_accordion_rule { border-bottom: 1px solid rgb(214, 215, 214); margin: 0px; }
+
+.folder_accordion_channel_name { cursor: pointer; float: left; width: 90%; }
+
+.folder_accordion_channel_icon { cursor: pointer; float: right; font-size: 24px; height: 32px; margin-top: -5px; overflow: hidden; text-align: right; width: 10%; }
+
+.folder_accordion_menu_row { padding: 16px 0px 12px; font-weight: normal; color: rgb(255, 255, 255); }
+
+#folder_accordion_pages { padding: 14px 0px 12px; }
+
+.folder_accordion_page_wrapper { padding: 10px 0px; }
+
+.folder_accordion_page { font-size: 10pt; font-weight: 300; }
+
+.footer_accordion_menu { background-color: rgb(242, 242, 242); padding: 30px 0px 0px; }
+
+.footer_accordion_rule { border-bottom: 1px solid rgb(214, 215, 214); margin: 0px 16px; }
+
+#footercopyright { font-size: 10pt; }
+
+#footercopyright a { font-size: 10pt; }
+
+#footerdescription { text-align: left; }
+
+.footer_heading { font-size: 20px; font-weight: 400; margin-bottom: 22px; }
+
+.footer_legal { font-size: 10pt; line-height: 100%; padding-top: 16px; }
+
+.footer_logo_wrapper { margin: 4px 14px 0px 0px; }
+
+.footer_phone { font-size: 18px; margin-top: 6px; }
+
+.footer_rule { background-color: rgba(0, 0, 0, 0.87); margin-bottom: 20px; height: 1px; width: 100%; }
+
+#footerprimarywrapper { background-color: rgb(242, 242, 242); border-top: 1px solid rgb(238, 238, 238); padding-top: 24px; padding-bottom: 24px; width: 100%; }
+
+#footerprimaryheader { font-size: 12pt; font-weight: 700; margin-bottom: 22px; }
+
+#footerprimary { color: rgba(0, 0, 0, 0.87); font-size: 10pt; line-height: 160%; margin-left: auto; margin-right: auto; padding: 15px; text-align: left; }
+
+#footerprimary a { color: rgba(0, 0, 0, 0.87); }
+
+#footerprimary a.blue { color: rgba(0, 0, 0, 0.87); }
+
+#instructions, #instructions2 { font-size: small; }
+
+#loader { display: none; }
+
+#main_content { padding: 0px 16px; }
+
+#main_content_center { padding: 0px 16px; text-align: center; }
+
+#message { color: rgb(255, 0, 132); margin: 16px 0px 0px; }
+
+#page_x_of_y { font-size: small; font-style: oblique; }
+
+#powered_by_winksite { background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.54); font-size: small; margin: 0px 0px 16px; padding: 0px 16px; text-align: right; }
+
+#powered_by_winksite a { background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.54); font-size: small; }
+
+#powered_by_winksite_wrapper1 { background-color: rgb(242, 242, 242); height: 78px; }
+
+#powered_by_winksite_wrapper2 { color: rgba(0, 0, 0, 0.87); font-size: 10pt; padding: 16px 16px 0px 0px; text-align: right; }
+
+#site_name_gradient { height: 8px; width: 100%; }
+
+#site_name_portal { background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); padding: 6px 10px 8px; }
+
+#timestamp { font-size: small; padding-bottom: 8px; }
+
+#wrapper { }
+
+#x_to_y_of_z { font-size: small; font-style: oblique; margin-bottom: 10px; }
+
+#site_name { background-color: rgb(255, 255, 255); color: rgb(50, 59, 79); font-weight: bold; padding: 6px 10px 8px; }
+
+#site_name_with_logo { background-color: rgb(255, 255, 255); margin: 0px; padding: 0px; }
+
+#site_name_with_logo img { border: 0px none; display: block; }
+
+#site_name_with_logo_1 { background-color: rgb(255, 255, 255); margin: 0px; padding: 0px; text-align: center; width: 100%; height: auto; }
+
+#site_name_with_logo_1 img { border: 0px none; margin: 0px auto; }
+
+.chat_alias_and_time { margin-bottom: 5px; }
+
+.chat_alias { color: rgb(34, 34, 34); float: left; font-size: small; font-weight: bold; padding: 2px 0px 0px; }
+
+.chat_alias_me { color: rgb(63, 69, 134); float: right; font-size: small; font-weight: bold; padding: 2px 0px 0px; }
+
+.chat_emoticon { vertical-align: bottom; }
+
+.chat_enters_exits { font-size: small; margin-top: 5px; text-align: right; }
+
+.chat_enters_exits_first { border-top: 1px dotted rgb(63, 69, 134); padding: 8px 0px 0px; }
+
+.chat_enters_exits_time { color: rgb(63, 69, 134); }
+
+.chat_enters_exits_me { color: rgb(63, 69, 134); }
+
+.chat_enters_exits_others { color: rgb(229, 229, 234); }
+
+.chat_image_div { margin: 0px; }
+
+.chat_input { background-color: rgb(250, 250, 250); border: 1px solid rgb(200, 200, 205); border-radius: 4px; appearance: none; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; height: 29px; width: 99%; }
+
+.chat_input_textarea { background-color: rgb(250, 250, 250); border: 1px solid rgb(200, 200, 205); border-radius: 16px; appearance: none; color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; height: 36px; padding: 6px; width: 99%; }
+
+.expanding-clone { font-size: medium; }
+
+.chat_msg_photo { float: left; margin: 12px 6px 0px 0px; width: 34px; }
+
+.chat_msg { background-color: rgb(229, 229, 234); border: 1px solid rgb(229, 229, 234); border-radius: 16px; color: rgb(0, 0, 0); float: left; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; margin: 12px 0px 0px; padding: 6px 8px 2px; max-width: 70%; overflow: hidden; overflow-wrap: break-word; }
+
+.chat_msg_me { background-color: rgb(63, 69, 134); border: 1px solid rgb(63, 69, 134); border-radius: 16px; color: rgb(255, 255, 255); float: right; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; margin: 12px 0px 0px 20%; padding: 6px 8px 2px; max-width: 80%; overflow: hidden; overflow-wrap: break-word; }
+
+.chat_room_icon_area { color: rgb(142, 142, 147); float: right; font-size: small; }
+
+.chat_time { color: rgb(142, 142, 147); float: left; font-size: small; padding: 2px 0px 0px; }
+
+.chat_time_me { color: rgb(142, 142, 147); float: right; font-size: small; padding: 2px 0px 0px; }
+
+.chat_erase_msg { float: left; font-size: small; padding: 2px 0px 0px 12px; }
+
+.chat_erase_msg_me { float: right; font-size: small; padding: 2px 12px 0px 0px; }
+
+.chat_erase_msg a, .chat_erase_msg_me a { color: rgb(255, 0, 132); }
+
+.chat_user_options_row { border-bottom: 1px solid rgba(0, 0, 0, 0.12); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: medium; padding: 7px 10px 5px; }
+
+#chat_bottom_area { padding: 7px 16px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); box-sizing: border-box; z-index: 2; width: 100%; border-top: 0.5px solid rgb(255, 255, 255); }
+
+#chat_buffer_before_msgs { height: 60px; }
+
+#chat_button_close_add_image_div { display: none; }
+
+#chat_button_add_image_div { display: inline; }
+
+#chat_button_add_image_div, #chat_button_close_add_image_div { float: left; padding: 5px 0px 0px; text-align: left; width: 14%; }
+
+#chat_input_wrapper { float: left; width: 72%; }
+
+#chat_send_button_wrapper { float: left; text-align: right; width: 14%; }
+
+#chat_send_button { color: rgb(63, 69, 134); text-align: right; visibility: hidden; }
+
+#chat_emoticons, #chat_user_profile { background-color: black; color: rgb(255, 255, 255); display: none; opacity: 0.96; position: fixed; bottom: 0px; left: 0px; overflow-y: scroll; height: 100%; width: 100%; z-index: 11; }
+
+#chat_image_upload { display: none; margin: 0px 0px 10px 46px; }
+
+#chat_information, #chat_user_options { background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.87); display: none; opacity: 0.95; position: fixed; bottom: 0px; left: 0px; overflow-y: scroll; height: 100%; width: 100%; transform: translateZ(1px); z-index: 100000000; }
+
+#chat_ms_cr_ajax { min-height: 295px; }
+
+#chat_wrapper { background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; }
+
+#chat_wrapper a { background-color: rgb(255, 255, 255); }
+
+@media (orientation: portrait) {
+  #chat_buffer_after_msgs { height: 72px; }
+}
+
+@media (orientation: landscape) {
+  #chat_buffer_after_msgs { height: 82px; }
+}
+
+a.chat_bottom_link { color: rgb(0, 0, 0); }
+
+.clearfix::after { clear: both; display: block; content: ""; height: 0px; }
+
+.hide-by-clipping { position: absolute; width: 1px; height: 1px; padding: 0px; margin: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); border: 0px; }
+
+img.fr-rounded, .fr-img-caption.fr-rounded img { border-radius: 10px; background-clip: padding-box; }
+
+img.fr-bordered, .fr-img-caption.fr-bordered img { border: 5px solid rgb(204, 204, 204); }
+
+img.fr-bordered { box-sizing: content-box; }
+
+.fr-img-caption.fr-bordered img { box-sizing: border-box; }
+
+img.fr-shadow, .fr-img-caption.fr-shadow img { box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.16) 0px 1px 1px 1px; }
+
+.fr-view { overflow-wrap: break-word; }
+
+.fr-view span[style~="color:"] a { color: inherit; }
+
+.fr-view strong { font-weight: 700; }
+
+.fr-view table { border: 0px; border-collapse: collapse; empty-cells: show; max-width: 100%; }
+
+.fr-view table td { min-width: 5px; }
+
+.fr-view table.fr-dashed-borders td, .fr-view table.fr-dashed-borders th { border-style: dashed; }
+
+.fr-view table.fr-alternate-rows tbody tr:nth-child(2n) { background: rgb(245, 245, 245); }
+
+.fr-view table td, .fr-view table th { border: 1px solid rgb(221, 221, 221); }
+
+.fr-view table td:empty, .fr-view table th:empty { height: 20px; }
+
+.fr-view table td.fr-highlighted, .fr-view table th.fr-highlighted { border: 1px double red; }
+
+.fr-view table td.fr-thick, .fr-view table th.fr-thick { border-width: 2px; }
+
+.fr-view table th { background: rgb(230, 230, 230); }
+
+.fr-view hr { border-top: 1px dotted; clear: both; border-bottom: none; user-select: none; break-after: page; }
+
+.fr-view .fr-file { position: relative; }
+
+.fr-view .fr-file::after { position: relative; content: "ğŸ“"; font-weight: 400; }
+
+.fr-view pre { white-space: pre-wrap; overflow-wrap: break-word; overflow: visible; }
+
+.fr-view[dir="rtl"] blockquote { border-left: 0px; border-right: 2px solid rgb(0, 0, 0); margin-right: 0px; padding-right: 5px; padding-left: 0px; }
+
+.fr-view[dir="rtl"] blockquote blockquote { border-color: rgb(0, 0, 0); }
+
+.fr-view[dir="rtl"] blockquote blockquote blockquote { border-color: rgb(0, 0, 0); }
+
+.fr-view blockquote { border-left: 2px solid rgb(0, 0, 0); margin-left: 0px; padding-left: 5px; color: rgb(0, 0, 0); }
+
+.fr-view blockquote blockquote { border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); }
+
+.fr-view blockquote blockquote blockquote { border-color: rgb(0, 0, 0); color: rgb(0, 0, 0); }
+
+.fr-view span.fr-emoticon { font-weight: 400; font-family: "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Segoe UI Symbol", "Android Emoji", EmojiSymbols; display: inline; line-height: 0; }
+
+.fr-view span.fr-emoticon.fr-emoticon-img { font-size: inherit; height: 1em; width: 1em; min-height: 20px; min-width: 20px; display: inline-block; margin: -0.1em 0.1em 0.1em; line-height: 1; vertical-align: middle; background-repeat: no-repeat !important; }
+
+.fr-view .fr-text-gray { color: rgb(170, 170, 170) !important; }
+
+.fr-view .fr-text-bordered { border-top: 1px solid rgb(34, 34, 34); border-bottom: 1px solid rgb(34, 34, 34); padding: 10px 0px; }
+
+.fr-view .fr-text-spaced { letter-spacing: 1px; }
+
+.fr-view .fr-text-uppercase { text-transform: uppercase; }
+
+.fr-view .fr-class-highlighted { background-color: rgb(255, 255, 0); }
+
+.fr-view .fr-class-code { border-color: rgb(204, 204, 204); border-radius: 2px; background: rgb(245, 245, 245); padding: 10px; font-family: "Courier New", Courier, monospace; }
+
+.fr-view .fr-class-transparency { opacity: 0.5; }
+
+.fr-view img { position: relative; max-width: 100%; }
+
+.fr-view img.fr-dib { margin: 5px auto; display: block; float: none; vertical-align: top; }
+
+.fr-view img.fr-dib.fr-fil { margin-left: 0px; text-align: left; }
+
+.fr-view img.fr-dib.fr-fir { margin-right: 0px; text-align: right; }
+
+.fr-view img.fr-dii { display: inline-block; float: none; vertical-align: bottom; margin-left: 5px; margin-right: 5px; max-width: calc(100% - 10px); }
+
+.fr-view img.fr-dii.fr-fil { float: left; margin: 5px 5px 5px 0px; max-width: calc(100% - 5px); }
+
+.fr-view img.fr-dii.fr-fir { float: right; margin: 5px 0px 5px 5px; max-width: calc(100% - 5px); }
+
+.fr-view span.fr-img-caption { position: relative; max-width: 100%; }
+
+.fr-view span.fr-img-caption.fr-dib { margin: 5px auto; display: block; float: none; vertical-align: top; }
+
+.fr-view span.fr-img-caption.fr-dib.fr-fil { margin-left: 0px; text-align: left; }
+
+.fr-view span.fr-img-caption.fr-dib.fr-fir { margin-right: 0px; text-align: right; }
+
+.fr-view span.fr-img-caption.fr-dii { display: inline-block; float: none; vertical-align: bottom; margin-left: 5px; margin-right: 5px; max-width: calc(100% - 10px); }
+
+.fr-view span.fr-img-caption.fr-dii.fr-fil { float: left; margin: 5px 5px 5px 0px; max-width: calc(100% - 5px); }
+
+.fr-view span.fr-img-caption.fr-dii.fr-fir { float: right; margin: 5px 0px 5px 5px; max-width: calc(100% - 5px); }
+
+.fr-view .fr-video { text-align: center; position: relative; }
+
+.fr-view .fr-video.fr-rv { padding-bottom: 56.25%; padding-top: 30px; height: 0px; overflow: hidden; }
+
+.fr-view .fr-video.fr-rv > iframe, .fr-view .fr-video.fr-rv object, .fr-view .fr-video.fr-rv embed { top: 0px; left: 0px; width: 100%; height: 100%; position: absolute !important; }
+
+.fr-view .fr-video > * { box-sizing: content-box; max-width: 100%; border: 0px; }
+
+.fr-view .fr-video.fr-dvb { display: block; clear: both; }
+
+.fr-view .fr-video.fr-dvb.fr-fvl { text-align: left; }
+
+.fr-view .fr-video.fr-dvb.fr-fvr { text-align: right; }
+
+.fr-view .fr-video.fr-dvi { display: inline-block; }
+
+.fr-view .fr-video.fr-dvi.fr-fvl { float: left; }
+
+.fr-view .fr-video.fr-dvi.fr-fvr { float: right; }
+
+.fr-view a.fr-strong { font-weight: 700; }
+
+.fr-view a.fr-green { color: green; }
+
+.fr-view .fr-img-caption { text-align: center; }
+
+.fr-view .fr-img-caption .fr-img-wrap { padding: 0px; display: inline-block; margin: auto; text-align: center; width: 100%; }
+
+.fr-view .fr-img-caption .fr-img-wrap img { display: block; margin: auto; width: 100%; }
+
+.fr-view .fr-img-caption .fr-img-wrap > span { margin: auto; display: block; padding: 5px 5px 10px; font-size: 14px; font-weight: initial; box-sizing: border-box; opacity: 0.9; width: 100%; text-align: center; }
+
+.fr-view button.fr-rounded, .fr-view input.fr-rounded, .fr-view textarea.fr-rounded { border-radius: 10px; background-clip: padding-box; }
+
+.fr-view button.fr-large, .fr-view input.fr-large, .fr-view textarea.fr-large { font-size: 24px; }
+
+a.fr-view.fr-strong { font-weight: 700; }
+
+a.fr-view.fr-green { color: green; }
+
+img.fr-view { position: relative; max-width: 100%; }
+
+img.fr-view.fr-dib { margin: 5px auto; display: block; float: none; vertical-align: top; }
+
+img.fr-view.fr-dib.fr-fil { margin-left: 0px; text-align: left; }
+
+img.fr-view.fr-dib.fr-fir { margin-right: 0px; text-align: right; }
+
+img.fr-view.fr-dii { display: inline-block; float: none; vertical-align: bottom; margin-left: 5px; margin-right: 5px; max-width: calc(100% - 10px); }
+
+img.fr-view.fr-dii.fr-fil { float: left; margin: 5px 5px 5px 0px; max-width: calc(100% - 5px); }
+
+img.fr-view.fr-dii.fr-fir { float: right; margin: 5px 0px 5px 5px; max-width: calc(100% - 5px); }
+
+span.fr-img-caption.fr-view { position: relative; max-width: 100%; }
+
+span.fr-img-caption.fr-view.fr-dib { margin: 5px auto; display: block; float: none; vertical-align: top; }
+
+span.fr-img-caption.fr-view.fr-dib.fr-fil { margin-left: 0px; text-align: left; }
+
+span.fr-img-caption.fr-view.fr-dib.fr-fir { margin-right: 0px; text-align: right; }
+
+span.fr-img-caption.fr-view.fr-dii { display: inline-block; float: none; vertical-align: bottom; margin-left: 5px; margin-right: 5px; max-width: calc(100% - 10px); }
+
+span.fr-img-caption.fr-view.fr-dii.fr-fil { float: left; margin: 5px 5px 5px 0px; max-width: calc(100% - 5px); }
+
+span.fr-img-caption.fr-view.fr-dii.fr-fir { float: right; margin: 5px 0px 5px 5px; max-width: calc(100% - 5px); }
+
+.fr-wrapper a { border-bottom: 1px dotted rgb(63, 69, 134) !important; color: rgb(63, 69, 134) !important; text-decoration: none !important; }
+
+.main_content_copy a { border-bottom: 1px dotted rgb(63, 69, 134) !important; }
+------MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-6115ba29-6e87-4fa1-b57c-442ea6592ab3@mhtml.blink
+
+@charset "utf-8";
+
+.c-hamburger span { background: rgb(50, 59, 79); }
+
+.c-hamburger span::after, .c-hamburger span::before { background-color: rgb(50, 59, 79); }
+------MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://winksite.com/xhtml/images/b-add-image.png
+
+‰PNG
+
+   IHDR   H   6   S/Ä   BPLTE   …™…™…™…™…™…™…™…™…™…™…™…™…™…™…™…™…™…™…™…™…™;yér   tRNS éß÷Õ«•I¹È2	fX‰=q(~saÍL  	IDATHÇ½–ëv¬ F?n@Á[ŞÿUÏ`»ÔÖÁBë:û¬aƒ!™€ÎK©/ĞÄ0*~™VÆq£ÇFT\bÅ-VóÆŒÌ¢¹ˆìïE3*æ!¾†[‘WB%RÌ¥;6+3%—±G€ŠˆT
+´y1|bzRüb\Ì™ùî„æ
+twÂÓ´DğŸ3à?€rğüò‘€øñÔ×Ù6‘4Ç”âLA|™_“oiš†=ÙiŞ!`µ"EßÊó”ªİkT+Ò	Û»”\o‘Izß$†ÊOıvˆÕK¡”~ıïËkƒ­ó:»Jµ/”«Í&İvıÂåEş[Òe¹M¢ußürÌµE,`Ci¾^¤"0Péo6ªj‘¶@Ros+åÎP-"Àtü–Î T]·d¡Mù°•"9•‰šó&•"½ #s*EŞÀv%Qga|­h€õ%‘·ªEæNÔp"mÏW|M«¸5n¹5•ŠEÎÂ5ä8âpÆê	·µfC[õwo³¨­úÙÛ=/9o=×ˆŠÂ¤/éxÎÕ‰Xº–qm,N¶õş° °$N?%`9äM}m¢ ³&\YÙi2ÖÅÎ"ã4·ˆ''¾°Œâ—ï#½öŸ˜~Õ¿h)ÙÉ½Hc'Õó/¶vÑÁ…gDñQ„¡'<d ƒü#!ü“jøÌp<B    IEND®B`‚
+------MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://winksite.com/xhtml/images/send.png
+
+‰PNG
+
+   IHDR   P   P   ¹ÏŸ   ¨PLTE   ?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†?E†øùÿDJ‹`f¨ÅÉîåçùx~¿JP‘’˜Ø]c¤ÂÆíõöşŸ¤ßäæùÜŞöØÛõÏÒò­²å‚ˆÉou¶½êûü   $tRNS ÷Dğç§TÊ;ßÂ”~"Ò»¯/(!‡[J5ƒpôŸœ7tb¨ZZ  7IDATXÃÍÙYs‚0à$,Š¢Ö«µµÛ¥PíşÿÿY'H›ªà	xz^|q¾!0îAØeMKú½ëÑĞsIÒq¼a×ïõ›c'Á¸#i7²3Nšp‘ß¡ªtü¨.wŞ¦ÃiŸ×ánr‘7¶Ü´KvéZ]y·åmœ–½A›ê¤= ŞÄ£zñ&=uIus©x-j’V¥wFÍrë5*ñúòPö÷<×£câ¹»à)—Sp=.¸ïÓuzîë­E÷€÷Çñ;{Âd¼‡Xçˆ3Î¡g#ÎÍn=;ñwïº@¥xñ"ÏZ,¼ğìÅÅôg/úzöbîĞ{Œ‹_(¡÷T€OP5(¡—`E©AèÑ]ŞõÎ½? B(äı¡¨„XRI’gãmF|N¨$ËŠ'Mf¼ĞˆYÅe¾ªµ·1«¸WÆ•K~ÑŞ¨Å—Ê%„QY²ôcıE }­?ÒŒÊÒÕ ŒQ48æÍ’¯XA_ˆ9+
+qË
+.…P¬ bÀ
+ê¡€4XPj0dCŒ` A—tK6zÂ~Á.Ä&l`é€Aü:7cMYp•{+ †Ö/íô–ƒoà_3û±â3?ÑXa?ø$éëê5MààÃ?šñüã-ÿ Î_ğ—ü5d¢dmN*î2½îã/$ù+Sœ`H8Ã€»v®™ÉÁb|òªû­RKæãC¢È¶ıÿí¦¥PLZ    IEND®B`‚
+------MultipartBoundary--zxl0xRzXOEvLYc0OO5y0Lch8zBROZqr0FYrWGgGXAC------
